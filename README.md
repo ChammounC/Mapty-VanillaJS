@@ -15,11 +15,6 @@
 
 <br>
 
-<h3 align="center"> 
-	Application status: Developed ✔️
-</h3>
-<br>
-
 ## About
 This project was developed on the <a href="https://www.udemy.com/course/the-complete-javascript-course/" target="_blank"> Javascript </a> course. In this app, you can log your running or cycling workouts with location, distance, time, pace, and steps/minute. You can also see all your workouts at a glance and on a map. Build with JavaScript, OOP, HTML, CSS.
 
